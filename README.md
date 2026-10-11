@@ -19,7 +19,9 @@ An interactive Streamlit dashboard that explores world population by country, co
 4. Start the app:
    ```bash
    streamlit run app.py
-   ```
+   '''
+dashboard link:
+https://world-population-growth-analysis-xucaxwfj8lx7pmm5cla5wt.streamlit.app/
 
 Keep `app.py`, `requirements.txt`, and `world pop.csv` in the same folder.
 
